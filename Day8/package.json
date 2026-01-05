@@ -1,0 +1,18 @@
+{
+  "name": "day6",
+  "version": "1.0.0",
+  "description": "On Day 4, I learned about HTTP, its methods, and Express. Here is a detailed explanation of each topic:",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "database.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongodb": "^7.0.0",
+    "mongoose": "^9.1.1"
+  }
+}
