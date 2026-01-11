@@ -1,6 +1,6 @@
 
 const { MongoClient } = require('mongodb');
-require('dotenv').config();
+// require('dotenv').config();
 // Standard URI format
 const uri = process.env.MONGO_URI; 
 
